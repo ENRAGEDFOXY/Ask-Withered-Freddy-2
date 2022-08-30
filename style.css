@@ -1,0 +1,24 @@
+body{
+    background:rgb(207 115 54);
+    color: black
+}
+
+#intro{
+    background:rgba(175, 102, 0, 0.634);
+    color:rgb(67, 117, 255);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.E{
+    color:rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+}
+
+#Footer{
+    color:rgb(226, 171, 43);
+    background-color:rgb(207 115 54);
+    font-size:25px;
+    line-height: 25px;
+    text-shadow:10px rgb(255, 0, 0);
+}
